@@ -1,0 +1,2 @@
+# errors
+Common error messages
